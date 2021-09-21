@@ -26,7 +26,7 @@
 ### Check for every number if its prime using above algo
 ### T(n) = O( n * root(n) )
 
-## 6. Print fibonaci numbers till N
+## 7. Print fibonaci numbers till N
 ### Start with a=0 and b=1
 ### Find c=a+b then change and then change b till c<=n
 
