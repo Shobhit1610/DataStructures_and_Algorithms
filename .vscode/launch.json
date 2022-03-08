@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Balanced_Parenthesis",
+            "request": "launch",
+            "mainClass": "Balanced_Parenthesis",
+            "projectName": "DataStructures_and_Algorithms_fff47682"
+        },
+        {
+            "type": "java",
+            "name": "Launch Duplicate_Brackets",
+            "request": "launch",
+            "mainClass": "Duplicate_Brackets",
+            "projectName": "DataStructures_and_Algorithms_fff47682"
+        },
+        {
+            "type": "java",
+            "name": "Launch Infix_Conversion",
+            "request": "launch",
+            "mainClass": "Infix_Conversion",
+            "projectName": "DataStructures_and_Algorithms_fff47682"
+        },
+        {
+            "type": "java",
+            "name": "Launch Infix_Evaluation",
+            "request": "launch",
+            "mainClass": "Infix_Evaluation",
+            "projectName": "DataStructures_and_Algorithms_fff47682"
+        },
+        {
+            "type": "java",
+            "name": "Launch Largest_Histogram",
+            "request": "launch",
+            "mainClass": "Largest_Histogram",
+            "projectName": "DataStructures_and_Algorithms_fff47682"
+        },
+        {
+            "type": "java",
+            "name": "Launch Min_Stack",
+            "request": "launch",
+            "mainClass": "Min_Stack",
+            "projectName": "DataStructures_and_Algorithms_fff47682"
+        },
+        {
+            "type": "java",
+            "name": "Launch Min_Stack_Constant_Space",
+            "request": "launch",
+            "mainClass": "Min_Stack_Constant_Space",
+            "projectName": "DataStructures_and_Algorithms_fff47682"
+        },
+        {
+            "type": "java",
+            "name": "Launch Next_Greater_Element",
+            "request": "launch",
+            "mainClass": "Next_Greater_Element",
+            "projectName": "DataStructures_and_Algorithms_fff47682"
+        },
+        {
+            "type": "java",
+            "name": "Launch Postfix_Evaluation_And_Conversions",
+            "request": "launch",
+            "mainClass": "Postfix_Evaluation_And_Conversions",
+            "projectName": "DataStructures_and_Algorithms_fff47682"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prefix_Evaluation_and_Conversions",
+            "request": "launch",
+            "mainClass": "Prefix_Evaluation_and_Conversions",
+            "projectName": "DataStructures_and_Algorithms_fff47682"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sliding_Window_Maximum",
+            "request": "launch",
+            "mainClass": "Sliding_Window_Maximum",
+            "projectName": "DataStructures_and_Algorithms_fff47682"
+        }
+    ]
+}
